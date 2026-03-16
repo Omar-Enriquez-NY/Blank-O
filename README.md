@@ -10,11 +10,11 @@
 - **Languages:** Python, Java & C++ (academic experience), JavaScript (basics)
 - **Tools:** Git, GitHub, Flask, REST APIs
 - **Security:** Cybersecurity 101 (Codepath)
-- **Learning:** Data Structures & Algorithms, Japanese
 
-### Currently working on:
+## Currently working on:
+
 - [**Anime Calendar**](https://github.com/Omar-Enriquez-NY/anime-calendar) — A Flask web app using Jikan API
-- **Cybersecurity 101 (Codepath)** — Learning security fundamentals
+- Cybersecurity 101 (Codepath) — Learning security fundamentals
 - Strengthening Python skills through projects
 - Preparing for technical interviews (LeetCode + Codepath)
 
@@ -25,6 +25,13 @@
 - Become fluent in Japanese
 - Solve 100+ LeetCode problems
 - Complete Codepath Cybersecurity course
+
+---
+
+## 🌎 Human Languages
+- **English** (Native)
+- **Spanish** (Conversational)
+- **Japanese** (Beginner - actively learning)
 
 ---
 
