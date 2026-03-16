@@ -18,7 +18,6 @@
 - Strengthening Python skills through projects
 - Preparing for technical interviews (LeetCode + Codepath)
 
----
 
 ## Goals
 
@@ -27,7 +26,6 @@
 - Solve 100+ LeetCode problems
 - Complete Codepath Cybersecurity course
 
----
 
 ## Human Languages
 
@@ -35,12 +33,10 @@
 - **Spanish** (Conversational)
 - **Japanese** (Beginner - actively learning)
 
----
 
 When I'm not coding, I'm watching anime, following soccer, at the gym or running!
 
 Let's connect if you're into tech, anime, soccer, or physical health!
 
----
 
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ny-omar-enriquez/)**
