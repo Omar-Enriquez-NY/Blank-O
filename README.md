@@ -1,12 +1,13 @@
 # Welcome to my profile! 
 
-<div align="center">
-  
-  <img src="https://i.pinimg.com/originals/76/da/03/76da03c579566626fa270bdb6df1280b.jpg" width="200" height="200" />
-  
-   **"If you don't take risks, you can't create a future."**  
-   — Monkey D. Luffy (One Piece)
-</div>
+<img src="https://i.pinimg.com/originals/76/da/03/76da03c579566626fa270bdb6df1280b.jpg" width="150" align="left" style="margin-right: 20px; border-radius: 10px;"/>
+
+<br>
+
+**"If you don't take risks, you can't create a future."**  
+— Monkey D. Luffy (One Piece)
+
+<br clear="both"/>
 
 ## Tech Stack
 
