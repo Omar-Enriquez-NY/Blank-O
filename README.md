@@ -20,7 +20,8 @@
 
 ---
 
-### Goals
+## Goals
+
 - Build more Python projects (Flask, APIs, automation)
 - Become fluent in Japanese
 - Solve 100+ LeetCode problems
@@ -28,7 +29,8 @@
 
 ---
 
-## 🌎 Human Languages
+## Human Languages
+
 - **English** (Native)
 - **Spanish** (Conversational)
 - **Japanese** (Beginner - actively learning)
